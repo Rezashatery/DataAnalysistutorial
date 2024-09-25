@@ -29,3 +29,5 @@ The range from the 25th to 75th percentile is known as the **Interquartile Range
 **Filtering** is performed using **logical expressions** — statements that are either true or false. Only rows for which the logical expression is true are kept.
 
 These logical expressions have three parts: the column name, the relationship, and the value. Filters can be combined in order to look at different segments of the data. Logical expressions are combined using logical operators like AND and OR. 
+
+**Grouping**  is the process of organizing data into categories based on a specific attribute or variable. It helps in summarizing, analyzing, and drawing insights from large datasets by focusing on common characteristics.
