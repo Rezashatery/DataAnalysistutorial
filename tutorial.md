@@ -38,7 +38,7 @@ A base-10 **logarithm** tells us how many times we need to multiply 10 to get an
 
 A base-10 logarithm gives us roughly the number of digits in a number, or its order of magnitude. 
 
-The **mode** is the most common value (or values) in a dataset.(the most common number that appears in the set of data.)
+The **mode** is the most common value (or values) in a dataset.(the most common number that appears in the set of data)
 
  A visualization type useful for comparing multiple distributions is a box and whisker plot, or **boxplot**. In a boxplot, the middle line represents the median, and the ends of the 'whiskers' mark the minimum and maximum values.
  The box ranges from the 25th percentile of the data — called the lower quartile, or Q1— and the 75th percentile — called the upper quartile, or Q3​. **Boxplots** visually summarize the data — but their real power lies in the ease of comparisons between distributions.(the median was smaller than 5, means that at least half of the number is less than 5. )
@@ -46,3 +46,4 @@ The **mode** is the most common value (or values) in a dataset.(the most common 
  An ordered sequence of values taken at equally spaced points in time is called a **time series**. A **trend** is the general, long-term pattern of a time series.
 
  PS: The most appropriate visualization is a plot that displays only the necessary information. 
+
