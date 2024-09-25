@@ -47,3 +47,10 @@ The **mode** is the most common value (or values) in a dataset.(the most common 
 
  PS: The most appropriate visualization is a plot that displays only the necessary information. 
 
+ The four types of data in data analytics are:
+
+**Nominal Data**: Categorical data without a specific order (e.g., gender, colors, names).
+**Ordinal Data**: Categorical data with a defined order but no consistent difference between categories (e.g., rankings, satisfaction levels).
+**Interval Data**: Numeric data with equal intervals between values, but no true zero (e.g., temperature in Celsius, dates).
+**Ratio Data**: Numeric data with equal intervals and a meaningful zero, allowing for comparisons of magnitudes (e.g., height, weight, age).
+
