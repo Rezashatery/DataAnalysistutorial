@@ -31,3 +31,14 @@ The range from the 25th to 75th percentile is known as the **Interquartile Range
 These logical expressions have three parts: the column name, the relationship, and the value. Filters can be combined in order to look at different segments of the data. Logical expressions are combined using logical operators like AND and OR. 
 
 **Grouping**  is the process of organizing data into categories based on a specific attribute or variable. It helps in summarizing, analyzing, and drawing insights from large datasets by focusing on common characteristics.
+
+On a **linear scale**, each unit corresponds to adding the same amount. On a **logarithmic scale**, each unit corresponds to multiplying by the same amount.
+
+A base-10 **logarithm** tells us how many times we need to multiply 10 to get another number. For example, it takes 3 multiplications to get 1000 from 10, so log⁡(1000)=3.
+
+A base-10 logarithm gives us roughly the number of digits in a number, or its order of magnitude. 
+
+The **mode** is the most common value (or values) in a dataset.(the most common number that appears in the set of data.)
+
+ A visualization type useful for comparing multiple distributions is a box and whisker plot, or **boxplot**. In a boxplot, the middle line represents the median, and the ends of the 'whiskers' mark the minimum and maximum values.
+ The box ranges from the 25th percentile of the data — called the lower quartile, or Q1— and the 75th percentile — called the upper quartile, or Q3​. **Boxplots** visually summarize the data — but their real power lies in the ease of comparisons between distributions.
