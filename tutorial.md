@@ -16,7 +16,7 @@ PS: Combining data across multiple table columns can help to make comparisons mo
 
 Consumers can be described by **categorical variables**, like gender, and **continuous variables**, like their age or income.
 
-**Histograms** are a useful tool for examining continuous variables. When we group a variable into ranges, the ranges should be the same width — this turns our bar chart into a histogram.Narrower bins show a more detailed picture of the data, but small numbers in each bin cause more random variation in bin height.
+**Histograms** are a useful tool for examining continuous variables. When we group a variable into ranges, the ranges should be the same width — this turns our bar chart into a histogram.Narrower bins show a more detailed picture of the data, but small numbers in each bin cause more random variation in bin height. A histogram is best for a single continuous variable like the rental rate.
 
 PS: If you were selling a new product to existing Starbucks customers, A reasonable aim would be to target the median age, or 50th percentile — the age that is greater than 50% of customers.
 
@@ -41,7 +41,7 @@ A base-10 logarithm gives us roughly the number of digits in a number, or its or
 The **mode** is the most common value (or values) in a dataset.(the most common number that appears in the set of data)
 
  A visualization type useful for comparing multiple distributions is a box and whisker plot, or **boxplot**. In a boxplot, the middle line represents the median, and the ends of the 'whiskers' mark the minimum and maximum values.
- The box ranges from the 25th percentile of the data — called the lower quartile, or Q1— and the 75th percentile — called the upper quartile, or Q3​. **Boxplots** visually summarize the data — but their real power lies in the ease of comparisons between distributions.(the median was smaller than 5, means that at least half of the number is less than 5. )
+ The box ranges from the 25th percentile of the data — called the lower quartile, or Q1— and the 75th percentile — called the upper quartile, or Q3​. **Boxplots** visually summarize the data — but their real power lies in the ease of comparisons between distributions.(the median was smaller than 5, means that at least half of the number is less than 5). Boxplots are best for comparing distributions of a continuous variable like revenue.
 
  An ordered sequence of values taken at equally spaced points in time is called a **time series**. A **trend** is the general, long-term pattern of a time series.
 
@@ -53,4 +53,6 @@ The **mode** is the most common value (or values) in a dataset.(the most common 
 **Ordinal Data**: Categorical data with a defined order but no consistent difference between categories (e.g., rankings, satisfaction levels).
 **Interval Data**: Numeric data with equal intervals between values, but no true zero (e.g., temperature in Celsius, dates).
 **Ratio Data**: Numeric data with equal intervals and a meaningful zero, allowing for comparisons of magnitudes (e.g., height, weight, age).
+
+**Probability** lets us estimate the likelihood of an event based on the information available to us.
 
