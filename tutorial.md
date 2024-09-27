@@ -1,3 +1,5 @@
+**Data analysis** is the process of inspecting, cleaning, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making. It is a crucial step in data-driven industries, enabling businesses and organizations to make sense of raw data and turn it into actionable insights.
+
 ## Visualization
 
 **Bar charts** are great for comparing numerical values to each other, but not for comparing values to the total. A bar chart allows for easy comparison between categories by comparing the height of bars on the chart. 
