@@ -8,6 +8,16 @@
 **Data Modeling**: Applying statistical or machine learning models to analyze the data, detect patterns, and make predictions.
 **Interpretation**: Drawing insights from the analysis to answer specific business questions or guide decision-making.
 
+## Types of Data Analysis:
+
+**Descriptive Analysis**: Summarizes historical data to understand what has happened. It uses measures like mean, median, mode, and visualizations like histograms and bar charts.
+
+**Diagnostic Analysis**: Investigates the causes behind past events, often through techniques like root cause analysis and correlation analysis.
+
+**Predictive Analysis**: Uses historical data and machine learning models to forecast future outcomes, such as sales predictions or customer behavior.
+
+**Prescriptive**: Provides recommendations for action by analyzing data and suggesting optimal decisions or solutions.
+
 ## Visualization
 
 **Bar charts** are great for comparing numerical values to each other, but not for comparing values to the total. A bar chart allows for easy comparison between categories by comparing the height of bars on the chart. 
