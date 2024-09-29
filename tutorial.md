@@ -26,7 +26,7 @@
 **Risk Management**: Predictive data analysis helps identify potential risks and provides strategies to mitigate them.
 
 this was a general concept of data analysis, now I want to explain the tools that we usually use in python.
- 
+
 
 ## Visualization
 
@@ -86,3 +86,11 @@ The **mode** is the most common value (or values) in a dataset.(the most common 
 
 **Probability** lets us estimate the likelihood of an event based on the information available to us.
 
+
+The law of total probability expresses the probability of an event as a sum of two distinct parts:
+                        (A)=P(A and B)+P(A and not B).
+
+
+**Bayes’ theorem** tells us how to update the initial probability of event A as we gather new information B:
+
+                        P(A∣B)=(P(B∣A)/P(B))​⋅P(A)
