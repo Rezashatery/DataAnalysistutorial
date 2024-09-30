@@ -94,3 +94,10 @@ The law of total probability expresses the probability of an event as a sum of t
 **Bayes’ theorem** tells us how to update the initial probability of event A as we gather new information B:
 
                         P(A∣B)=(P(B∣A)/P(B))​⋅P(A)
+
+
+Two events A and B are **independent** if, and only if, 
+P(A and B)=P(A)⋅P(B)
+
+If events A and B are **dependent**, then
+                        P(A and B)=P(A∣B)⋅P(B).
